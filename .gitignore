@@ -1,0 +1,43 @@
+# Environment files
+.env
+.env.local
+*.env
+
+# Build artifacts
+target/
+build/
+out/
+dist/
+
+# IDE and editor files
+.idea/
+*.iml
+.vscode/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Logs and caches
+*.log
+*.cache
+coverage/
+.nyc_output/
+
+# Docker and secrets
+.dockerignore
+secrets/
+*.pem
+*.key
+*.crt
+
+# DB2 and mainframe utils
+syncsort/config/
+file-transfer/auth/
+
+# Dependency directories
+node_modules/
+modules/
+
+# Maven local
+.mvn/wrapper/maven-wrapper.jar   
