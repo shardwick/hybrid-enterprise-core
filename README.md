@@ -20,5 +20,5 @@ This codebase enables iterative modernization of legacy systems.
    - Create a `.env` file with database credentials and service endpoints
 ## Usage
 - **Mainframe Layer**: Compile and run COBOL programs using provided JCL scripts
-- **Cloud Services**: Start the Spring Boot API with `mvn spring-boot:run`
+- **Cloud Services**: Start the Spring Boot API with `./gradlew bootRun`
 - **Integration**: Use the REST bridge to connect cloud services to mainframe data
