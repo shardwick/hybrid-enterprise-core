@@ -42,3 +42,23 @@ modules/
 
 # Maven local
 .mvn/wrapper/maven-wrapper.jar   
+
+# RAG implementation git ignore
+
+# Configuration files
+config.json
+agent_config.py
+secrets.py
+
+# Vector store data
+chroma_db/
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+rag_env/
+venv/
