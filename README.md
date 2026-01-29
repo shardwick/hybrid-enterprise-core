@@ -10,6 +10,7 @@ This codebase enables iterative modernization of legacy systems.
 ## Installation
 1. Clone the repository:
    ```bash
+   git clone https://github.com/
    ```
 2. Install dependencies:
    - Java: Ensure JDK 11+ and Gradle are installed
