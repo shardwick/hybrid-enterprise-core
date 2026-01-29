@@ -12,7 +12,7 @@ This codebase enables iterative modernization of legacy systems.
    ```bash
    ```
 2. Install dependencies:
-   - Java: Ensure JDK 11+ and Maven are installed
+   - Java: Ensure JDK 11+ and Gradle are installed
    - COBOL: Install GnuCOBOL for local compilation (optional)
    - DB2: Set up a local or remote DB2 instance
 
