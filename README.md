@@ -10,7 +10,7 @@ This codebase enables iterative modernization of legacy systems.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/...
    ```
 2. Install dependencies:
    - Java: Ensure JDK 11+ and Gradle are installed
@@ -21,5 +21,9 @@ This codebase enables iterative modernization of legacy systems.
    - Create a `.env` file with database credentials and service endpoints
 ## Usage
 - **Mainframe Layer**: Compile and run COBOL programs using provided JCL scripts
-- **Cloud Services**: Start the Spring Boot API with `./gradlew bootRun`
+- **Cloud Services**: Start the Spring Boot API with `./gradle bootRun`
 - **Integration**: Use the REST bridge to connect cloud services to mainframe data
+
+
+
+# Develop and deploy production-grade ML models and AI systems for diagnostics
